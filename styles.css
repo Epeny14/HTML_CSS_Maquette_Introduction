@@ -1,0 +1,301 @@
+header{
+	background-image: url("photo/grille.png");
+	height: 150px;
+	width: 100%;
+	margin: 0 auto;
+	padding-top: 25px;
+}
+
+body
+{
+
+}
+li{
+	list-style-type: none;
+	font-size: 14px;
+	padding-top: 0px;
+	color: #A8A9AA;
+}
+h4{
+	font-size: 14px;
+	text-align: center;
+	padding-left: 10px;
+	padding-right: 11px;
+	font-family: Droid, serif;
+}
+
+.contenu{
+	margin-left: 180px;
+	float: left;
+	margin-top: 20px;
+	position: absolute;
+
+}
+
+.menu-vertical{
+	position: relative;
+	display: flex;
+	float: right;
+	margin-right: 120px;
+}
+
+nav.resto{
+	width: 140px;
+	float: right;
+
+}
+
+.video{
+	text-align: center;
+	padding-top: 40px;
+	
+}
+
+.orange{
+	border-bottom: 5px solid orange;
+	width: 90px;
+	color: #A8A9AA;
+}
+.jaune{
+	border-bottom: 5px solid yellow;
+	width: 100px;
+	color: #A8A9AA;
+}
+.green{
+	border-bottom: 5px solid green;
+	width: 90px;
+	color: #A8A9AA;
+}
+.bleu{
+	border-bottom: 5px solid blue;
+	width: 90px;
+	color: #A8A9AA;
+}
+.violet{
+	border-bottom: 5px solid purple;
+	width: 90px;
+	color: #A8A9AA;
+}
+ul{
+	padding-left: 5px;
+
+}
+
+h6{
+	padding-top: 40px;
+	
+}
+.image{
+	background-image: url("photo/grille.png");
+	height: 50px;
+	text-align: center;
+	color: #767D86;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+}
+.golf{
+    width: 270px;
+ 	height: 370px;
+ 	border: 1px solid #EEEEC6;
+ 	float: left;
+
+ }
+ 
+ #win{
+ 	padding-left: 20px;
+ }
+
+ .arte{
+ 	position: relative;
+ 	top: 0px;
+ 	width: 293px;
+ 	height: 200px;
+ 	
+}
+
+#article{
+	width: 417px;
+	
+	flex-direction: column;
+	padding-left: 60px;
+}
+
+.container{
+	position: absolute;
+	width: 1099px;
+	height: 500px;
+	
+	display: flex;
+	padding-left: 200px;
+}
+.paragraph-1{
+	margin-top: -12px;
+	color: #CECED3;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+}
+.paragraph-golf{
+	color: #ABA1A7;
+}
+.paragraph-accro{
+	color: #ABA1A7;
+}
+.paragraph-fast-foods{
+	color: #ABA1A7;
+}
+.paragraph-comments{
+	color: #ABA1A7;
+}
+.paragraph-2{
+	margin-top: -12px;
+	color: #CECED3;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+}
+.paragraph-3{
+	margin-top: -12px;
+	color: #CECED3;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+}
+.read{
+	color: #ABA1A7;
+}
+.title-1{
+ 	margin-top: 15px;
+    font-size: 19px;
+    color: #F0634C;
+ }
+.title-2{
+	margin-top: 15px;
+    font-size: 19px;
+    color: #F0634C;
+}
+.title-3{
+	margin-top: 15px;
+    font-size: 19px;
+    color: #F0634C;
+}
+.title-4{
+	margin-top: 15px;
+    font-size: 19px;
+    color: #F0634C;
+}
+.comment{
+ 	width: 400px;
+ 	height: 180px;
+ 	
+ 	padding-right: 70px;
+
+}
+ .img
+ {
+ 	position: relative;
+ 	float: right;
+ }
+
+ .bloc_img {
+ 	position: absolute;
+ 	width: 400px;
+ 	height: 200px;
+ 	border: 1px solid #000000;
+ }
+ #coln{
+ 	width: 332px;
+ }
+.billet{
+ 	padding-left: 430px;
+ 	position: absolute;
+ 	top: 1187px;
+}
+.derock{
+	padding-left: 700px;
+	position: absolute;
+	top: 1188px;
+}
+footer{
+ 	background-image: url(photo/grille.png);
+ 	padding-top: 10px;
+ 	margin-top:520px;
+ 	height: 240px;
+}
+.title-contact{
+	color: #A29E9D;
+	margin-top: 8px;
+}
+.title-ticket{
+	color: #A29E9D;
+}
+.paragraph-ticket{
+	color: #B0B0B0;
+}
+.paragraph-ticket-1{
+	color: #B0B0B0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.title-comments-2{
+	color: #A29E9D;
+}
+.paragraph-comments-2{
+	color: #A29E9D;
+}
+.paragraph-comments-3{
+	color: #A29E9D;
+	font-family: 'Roboto', sans-serif;
+}
+.title-bland{
+	color: #A29E9D;
+}
+
+ .bland{
+	padding-left: 970px;
+	position: absolute;
+	top: 1188px;
+}
+.paragraph-bland{
+	color: #A29E9D;
+}
+.texte{
+	position: absolute;
+	padding-left: 200px;
+	margin-top: 30px;
+}
+.book{
+	float: right;
+	padding-right: 150px;
+	margin-top: 50px;
+}
+.paragraph-footer{
+	color: #A29E9D;
+}
+.contact{
+	padding-left: 200px;
+}
+.adress{
+	margin-top: -30px;
+    margin-left: 26px;
+    color: #B0B0B0;
+}
+.number{
+	margin-top: -30px;
+    margin-left: 26px;
+    color: #B0B0B0;
+}
+.contact-mail{
+	margin-top: -32px;
+	margin-left: 26px;
+	color: #B0B0B0;
+}
+.emails{
+	margin-top: -30px;
+    margin-left: 27px;
+    color: #B0B0B0;
+}
+.iframe{
+	border-width: 0px;
+}
+
+
+
+
